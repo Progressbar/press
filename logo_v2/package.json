@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "del": "^3.0.0",
     "sharp": "^0.21.0"
   }
 }
